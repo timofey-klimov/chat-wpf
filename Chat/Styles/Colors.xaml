@@ -1,0 +1,45 @@
+﻿ <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Color x:Key="BackgroundLight">#efefef</Color>
+    <SolidColorBrush x:Key="BaclgroundLightBrush" Color="{StaticResource BackgroundLight}"/>
+
+    <Color x:Key="BackgroundVeryLight">#fafafa</Color>
+    <SolidColorBrush x:Key="BackgroundVeryLightBrush" Color="{StaticResource BackgroundVeryLight}"/>
+
+
+    <Color x:Key="ForegroundMain">#686868</Color>
+    <SolidColorBrush x:Key="ForegroundMainBrush" Color="{StaticResource ForegroundMain}"/>
+
+    <Color x:Key="ForegroundVeryDark">#000000</Color>
+    <SolidColorBrush x:Key="ForegroundVeryDarkBrush" Color="{StaticResource ForegroundVeryDark}"/>
+
+    <Color x:Key="ForegroundLight">#ffffff</Color>
+    <SolidColorBrush x:Key="ForegroundLightBrush" Color="{StaticResource ForegroundLight}"/>
+
+    <Color x:Key="ForegroundBlue">#2987BE</Color>
+    <SolidColorBrush x:Key="ForegroundBlueBrush" Color="{StaticResource ForegroundBlue}"/>
+     
+    <Color x:Key="VeryDarkBlue">#18222c</Color>
+    <SolidColorBrush x:Key="VeryDarkBlueBrush" Color="{StaticResource VeryDarkBlue}"/>
+
+    <Color x:Key="ForegroundLightBlue">#c3e5f3</Color>
+    <SolidColorBrush x:Key="ForegroundLightBlueBrush" Color="{StaticResource ForegroundLightBlue}"/>
+
+    <Color x:Key="ForegroundDarkBlue">#206c98</Color>
+    <SolidColorBrush x:Key="ForegroundDarkBlueBrush" Color="{StaticResource ForegroundDarkBlue}"/>
+
+    <Color x:Key="ForegroundOrange">#f2aa22</Color>
+    <SolidColorBrush x:Key="ForegroundOrangeBrush" Color="{StaticResource ForegroundOrange}"/>
+
+    <Color x:Key="ForegroundDarkOrange">#e2990f</Color>
+    <SolidColorBrush x:Key="ForegroundDarkOrangeBrush" Color="{StaticResource ForegroundDarkOrange}"/>
+
+    <Color x:Key="ForegroundGray">#bab6ae</Color>
+    <SolidColorBrush x:Key="ForegroundGrayBrush" Color="{StaticResource ForegroundGray}"/>
+
+    <Color x:Key="ForegroundYellow">#efef1c</Color>
+    <SolidColorBrush x:Key="ForegroundYellowBrush" Color="{StaticResource ForegroundYellow}"/>
+
+    <Color x:Key="ForegroundRed">#ff0724</Color>
+    <SolidColorBrush x:Key="ForegroundRedBrush" Color="{StaticResource ForegroundRed}"/>
+</ResourceDictionary>

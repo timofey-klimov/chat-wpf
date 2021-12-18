@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4b2b4cd-9bfb-4189-bb8b-0711bc964ed4": {
+      "ProjectGuid": "c4b2b4cd-9bfb-4189-bb8b-0711bc964ed4",
+      "DisplayName": "Chat.Wpf",
+      "ColorIndex": 0
+    },
+    "5d9c70f3-d1b8-491d-8e4b-ebd780f0447f": {
+      "ProjectGuid": "5d9c70f3-d1b8-491d-8e4b-ebd780f0447f",
+      "DisplayName": "Chat.Core",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
